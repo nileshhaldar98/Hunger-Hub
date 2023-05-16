@@ -13,6 +13,7 @@ This project is about food delivery app backend using java and spring-framework.
 1. Harit Khushwas
 2. Dhiraj Salvi
 3. Madhusudan Amoli
+4. Nilesh Haldar
 
 
 ## Tech-Stack used :--
